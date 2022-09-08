@@ -1,0 +1,15 @@
+total 21
+drwxr-xr-x 1 hp 197121   0 Sep  8 02:18 .
+drwxr-xr-x 1 hp 197121   0 Sep  8 00:33 ..
+-rwxr-xr-x 1 hp 197121  30 Sep  8 01:14 0-hello_world
+-rwxr-xr-x 1 hp 197121  28 Sep  8 01:34 1-confused_smiley
+-rwxr-xr-x 1 hp 197121  28 Sep  8 01:44 2-hellofile
+-rwxr-xr-x 1 hp 197121  39 Sep  8 01:48 3-twofiles
+-rwxr-xr-x 1 hp 197121  35 Sep  8 01:51 4-lastlines
+-rwxr-xr-x 1 hp 197121  35 Sep  8 01:53 5-firstlines
+-rwxr-xr-x 1 hp 197121  40 Sep  8 01:58 6-third_line
+-rwxr-xr-x 1 hp 197121  72 Sep  8 02:08 7-file
+-rw-r--r-- 1 hp 197121  24 Sep  8 02:17 8-cwd_state
+-rw-r--r-- 1 hp 197121   0 Sep  8 00:34 README.md
+-rw-r--r-- 1 hp 197121 801 Sep  8 01:56 iacta
+-rw-r--r-- 1 hp 197121   0 Sep  8 02:18 ls_cwd_content
